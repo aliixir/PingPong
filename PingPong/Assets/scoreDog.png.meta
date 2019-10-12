@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: cb240bf04efa7450faade7bcd07da960
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: scoreDog_0
+    21300002: scoreDog_1
+    21300004: scoreDog_2
+    21300006: scoreDog_3
+    21300008: scoreDog_4
+    21300010: scoreDog_5
+    21300012: scoreDog_6
+    21300014: scoreDog_7
+    21300016: scoreDog_8
+    21300018: scoreDog_9
+    21300020: scoreDog_10
+    21300022: scoreDog_11
+    21300024: scoreDog_12
+    21300026: scoreDog_13
+    21300028: scoreDog_14
+    21300030: scoreDog_15
+    21300032: scoreDog_16
+    21300034: scoreDog_17
+    21300036: scoreDog_18
+    21300038: scoreDog_19
+    21300040: scoreDog_20
+    21300042: scoreDog_21
+    21300044: scoreDog_22
+    21300046: scoreDog_23
+    21300048: scoreDog_24
+    21300050: scoreDog_25
+    21300052: scoreDog_26
+    21300054: scoreDog_27
+    21300056: scoreDog_28
+    21300058: scoreDog_29
+    21300060: scoreDog_30
+    21300062: scoreDog_31
+    21300064: scoreDog_32
+    21300066: scoreDog_33
+    21300068: scoreDog_34
+    21300070: scoreDog_35
+    21300072: scoreDog_36
+    21300074: scoreDog_37
+    21300076: scoreDog_38
+    21300078: scoreDog_39
+    21300080: scoreDog_40
+    21300082: scoreDog_41
+    21300084: scoreDog_42
+    21300086: scoreDog_43
+    21300088: scoreDog_44
+    21300090: scoreDog_45
+    21300092: scoreDog_46
+    21300094: scoreDog_47
+    21300096: scoreDog_48
+    21300098: scoreDog_49
+    21300100: scoreDog_50
+    21300102: scoreDog_51
+    21300104: scoreDog_52
+    21300106: scoreDog_53
+    21300108: scoreDog_54
+    21300110: scoreDog_55
+    21300112: scoreDog_56
+    21300114: scoreDog_57
+    21300116: scoreDog_58
+    21300118: scoreDog_59
+    21300120: scoreDog_60
+    21300122: scoreDog_61
+    21300124: scoreDog_62
+    21300126: scoreDog_63
+    21300128: scoreDog_64
+    21300130: scoreDog_65
+    21300132: scoreDog_66
+    21300134: scoreDog_67
+    21300136: scoreDog_68
+    21300138: scoreDog_69
+    21300140: scoreDog_70
+    21300142: scoreDog_71
+    21300144: scoreDog_72
+    21300146: scoreDog_73
+    21300148: scoreDog_74
+    21300150: scoreDog_75
+    21300152: scoreDog_76
+    21300154: scoreDog_77
+    21300156: scoreDog_78
+    21300158: scoreDog_79
+    21300160: scoreDog_80
+    21300162: scoreDog_81
+    21300164: scoreDog_82
+    21300166: scoreDog_83
+    21300168: scoreDog_84
+    21300170: scoreDog_85
+    21300172: scoreDog_86
+    21300174: scoreDog_87
+    21300176: scoreDog_88
+    21300178: scoreDog_89
+    21300180: scoreDog_90
+    21300182: scoreDog_91
+    21300184: scoreDog_92
+    21300186: scoreDog_93
+    21300188: scoreDog_94
+    21300190: scoreDog_95
+    21300192: scoreDog_96
+    21300194: scoreDog_97
+    21300196: scoreDog_98
+    21300198: scoreDog_99
+    21300200: scoreDog_100
+    21300202: scoreDog_101
+    21300204: scoreDog_102
+    21300206: scoreDog_103
+    21300208: scoreDog_104
+    21300210: scoreDog_105
+    21300212: scoreDog_106
+    21300214: scoreDog_107
+    21300216: scoreDog_108
+    21300218: scoreDog_109
+    21300220: scoreDog_110
+    21300222: scoreDog_111
+    21300224: scoreDog_112
+    21300226: scoreDog_113
+    21300228: scoreDog_114
+    21300230: scoreDog_115
+    21300232: scoreDog_116
+    21300234: scoreDog_117
+    21300236: scoreDog_118
+    21300238: scoreDog_119
+    21300240: scoreDog_120
+    21300242: scoreDog_121
+    21300244: scoreDog_122
+    21300246: scoreDog_123
+    21300248: scoreDog_124
+    21300250: scoreDog_125
+    21300252: scoreDog_126
+    21300254: scoreDog_127
+    21300256: scoreDog_128
+    21300258: scoreDog_129
+    21300260: scoreDog_130
+    21300262: scoreDog_131
+    21300264: scoreDog_132
+    21300266: scoreDog_133
+    21300268: scoreDog_134
+    21300270: scoreDog_135
+    21300272: scoreDog_136
+    21300274: scoreDog_137
+    21300276: scoreDog_138
+    21300278: scoreDog_139
+    21300280: scoreDog_140
+    21300282: scoreDog_141
+    21300284: scoreDog_142
+    21300286: scoreDog_143
+    21300288: scoreDog_144
+    21300290: scoreDog_145
+    21300292: scoreDog_146
+    21300294: scoreDog_147
+    21300296: scoreDog_148
+    21300298: scoreDog_149
+    21300300: scoreDog_150
+    21300302: scoreDog_151
+    21300304: scoreDog_152
+    21300306: scoreDog_153
+    21300308: scoreDog_154
+    21300310: scoreDog_155
+    21300312: scoreDog_156
+    21300314: scoreDog_157
+    21300316: scoreDog_158
+    21300318: scoreDog_159
+    21300320: scoreDog_160
+    21300322: scoreDog_161
+    21300324: scoreDog_162
+    21300326: scoreDog_163
+    21300328: scoreDog_164
+    21300330: scoreDog_165
+    21300332: scoreDog_166
+    21300334: scoreDog_167
+    21300336: scoreDog_168
+    21300338: scoreDog_169
+    21300340: scoreDog_170
+    21300342: scoreDog_171
+    21300344: scoreDog_172
+    21300346: scoreDog_173
+    21300348: scoreDog_174
+    21300350: scoreDog_175
+    21300352: scoreDog_176
+    21300354: scoreDog_177
+    21300356: scoreDog_178
+    21300358: scoreDog_179
+    21300360: scoreDog_180
+    21300362: scoreDog_181
+    21300364: scoreDog_182
+    21300366: scoreDog_183
+    21300368: scoreDog_184
+    21300370: scoreDog_185
+    21300372: scoreDog_186
+    21300374: scoreDog_187
+    21300376: scoreDog_188
+    21300378: scoreDog_189
+    21300380: scoreDog_190
+    21300382: scoreDog_191
+    21300384: scoreDog_192
+    21300386: scoreDog_193
+    21300388: scoreDog_194
+    21300390: scoreDog_195
+    21300392: scoreDog_196
+    21300394: scoreDog_197
+    21300396: scoreDog_198
+    21300398: scoreDog_199
+    21300400: scoreDog_200
+    21300402: scoreDog_201
+    21300404: scoreDog_202
+    21300406: scoreDog_203
+    21300408: scoreDog_204
+    21300410: scoreDog_205
+    21300412: scoreDog_206
+    21300414: scoreDog_207
+    21300416: scoreDog_208
+    21300418: scoreDog_209
+    21300420: scoreDog_210
+    21300422: scoreDog_211
+    21300424: scoreDog_212
+    21300426: scoreDog_213
+    21300428: scoreDog_214
+    21300430: scoreDog_215
+    21300432: scoreDog_216
+    21300434: scoreDog_217
+    21300436: scoreDog_218
+    21300438: scoreDog_219
+    21300440: scoreDog_220
+    21300442: scoreDog_221
+    21300444: scoreDog_222
+    21300446: scoreDog_223
+    21300448: scoreDog_224
+    21300450: scoreDog_225
+    21300452: scoreDog_226
+    21300454: scoreDog_227
+    21300456: scoreDog_228
+    21300458: scoreDog_229
+    21300460: scoreDog_230
+    21300462: scoreDog_231
+    21300464: scoreDog_232
+    21300466: scoreDog_233
+    21300468: scoreDog_234
+    21300470: scoreDog_235
+    21300472: scoreDog_236
+    21300474: scoreDog_237
+    21300476: scoreDog_238
+    21300478: scoreDog_239
+    21300480: scoreDog_240
+    21300482: scoreDog_241
+    21300484: scoreDog_242
+    21300486: scoreDog_243
+    21300488: scoreDog_244
+    21300490: scoreDog_245
+    21300492: scoreDog_246
+    21300494: scoreDog_247
+    21300496: scoreDog_248
+    21300498: scoreDog_249
+    21300500: scoreDog_250
+    21300502: scoreDog_251
+    21300504: scoreDog_252
+    21300506: scoreDog_253
+    21300508: scoreDog_254
+    21300510: scoreDog_255
+    21300512: scoreDog_256
+    21300514: scoreDog_257
+    21300516: scoreDog_258
+    21300518: scoreDog_259
+    21300520: scoreDog_260
+    21300522: scoreDog_261
+    21300524: scoreDog_262
+    21300526: scoreDog_263
+    21300528: scoreDog_264
+    21300530: scoreDog_265
+    21300532: scoreDog_266
+    21300534: scoreDog_267
+    21300536: scoreDog_268
+    21300538: scoreDog_269
+    21300540: scoreDog_270
+    21300542: scoreDog_271
+    21300544: scoreDog_272
+    21300546: scoreDog_273
+    21300548: scoreDog_274
+    21300550: scoreDog_275
+    21300552: scoreDog_276
+    21300554: scoreDog_277
+    21300556: scoreDog_278
+    21300558: scoreDog_279
+    21300560: scoreDog_280
+    21300562: scoreDog_281
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scoreDog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 365
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684758b358284ec9b125b27fa1a0e36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreDog_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 363
+        width: 365
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22042b726ed14ebb808d253d88fa1c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreDog_2
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 363
+        width: 365
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe142bb04f6d4ff0831ee333fe335fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreDog_3
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 363
+        width: 365
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737e3f3b9dbd345c99313c21c680b388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreDog_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 365
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4521a9a961b554a5dbcda56e218a9701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreDog_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 6
+        width: 365
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bb54f7ad5ec442db8c40e93f72b584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreDog_6
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 6
+        width: 365
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a205b0f1c89f640b488576d62265d9a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scoreDog_7
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 6
+        width: 365
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0437144d8280d4e59b8f3d123c948029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0208377391a654388bb95eaded84b0fa
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
